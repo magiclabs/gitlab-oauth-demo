@@ -15,7 +15,7 @@ const Login = () => {
 
   return (
     <div className="container">
-      <h1>Magic Auth + GitLab</h1>
+      <h1>Magic + GitLab</h1>
       <button onClick={handleSocialLogin}>
         <FaGitlab size={"2.5rem"} />
         Log in with GitLab
